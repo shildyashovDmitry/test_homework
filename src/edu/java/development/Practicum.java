@@ -12,6 +12,7 @@ public class Practicum {
     }
     public static void printHeader(){
         System.out.println("Сейчвс будет приветствие...");
+        System.out.println();
     }
 
 
